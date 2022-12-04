@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  margin-top: 0;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #1c87c9;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+footer {
+  text-align: center;
+}
+
+a {
+  color: #1c87c9;
+  text-decoration: none;
+}
